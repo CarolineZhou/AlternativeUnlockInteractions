@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">clock</string>
+    <color name="black">#87ceeb</color>
 </resources>
